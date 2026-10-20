@@ -1,6 +1,6 @@
-### Muhamed Isabegović
+### Hi, I'm Muhamed 👋
 
-Product engineer and technical lead in Vienna. I build products, lead the teams that ship them, and work on tools that help teams build with AI. Rubyist since 2016.
+I'm a product engineer and tech lead living in Vienna. I like taking an idea all the way to something people actually use, and these days a lot of that means figuring out how teams can build well alongside AI. I've been writing Ruby since 2016, and I became a dad in 2025.
 
 #### Projects
 
@@ -12,7 +12,7 @@ Product engineer and technical lead in Vienna. I build products, lead the teams 
 
 #### Community
 
-Organiser of EuRuKo 2024 in Sarajevo and RubyConf Austria 2026 in Vienna. Next up: [GoatConf 2027](https://goatconf.com/) in Tuzla, 3 to 5 June 2027.
+I love bringing people together. I organised [EuRuKo 2024](https://2024.euruko.org/) in Sarajevo and [RubyConf Austria](https://rubyconf.at/) in Vienna, and next up is [GoatConf 2027](https://goatconf.com/) in Tuzla, 3 to 5 June 2027. Come say hi!
 
 #### Elsewhere
 
