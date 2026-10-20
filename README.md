@@ -1,6 +1,6 @@
 ### Hi, I'm Muhamed 👋
 
-I'm a product engineer and tech lead in Vienna. I've spent ten years taking products from first idea to production and leading the teams that build them, up to around 30 engineers across 7 time zones. Right now I'm building tools that make AI-assisted development hold up in real codebases. Rubyist since 2016.
+I'm a product engineer and tech lead in Vienna. I've spent ten years taking products from first idea to production and leading the teams that build them. Right now I'm building tools that make AI-assisted development hold up in real codebases. Rubyist since 2016.
 
 #### Projects
 
