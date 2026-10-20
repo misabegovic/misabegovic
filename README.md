@@ -1,6 +1,6 @@
 ### Hi, I'm Muhamed 👋
 
-I'm a product engineer and tech lead living in Vienna. I like taking an idea all the way to something people actually use, and these days a lot of that means figuring out how teams can build well alongside AI. I've been writing Ruby since 2016, and I became a dad in 2025.
+I'm a product engineer and tech lead in Vienna. I've spent ten years taking products from first idea to production and leading the teams that build them, up to around 30 engineers across 7 time zones. Right now I'm building tools that make AI-assisted development hold up in real codebases. Rubyist since 2016.
 
 #### Projects
 
