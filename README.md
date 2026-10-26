@@ -2,7 +2,7 @@
 
 I've spent ten years taking products from first idea to production and leading the teams that build them. Right now I'm building tools that make AI-assisted development hold up in real codebases. Rubyist since 2016.
 
-#### Projects
+#### Building
 
 - **[tabula](https://github.com/misabegovic/enola-guides/blob/main/guides/13-tabula.md)** *(in private development)*: a memory layer for coding agents. Pages a team writes about what the code should be and why, checked against the code, so every agent starts from what was decided.
 - **[taha](https://github.com/misabegovic/enola-guides/blob/main/guides/14-taha.md)** *(in private development)*: the agent harness built on tabula. It runs coding agents through the workflow I follow myself.
