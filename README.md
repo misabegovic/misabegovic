@@ -17,7 +17,7 @@ I've spent ten years taking products from first idea to production and leading t
 
 #### Community
 
-I love bringing people together. I organised [EuRuKo 2024](https://2024.euruko.org/) in Sarajevo and [RubyConf Austria](https://rubyconf.at/) in Vienna, and next up is [GoatConf 2027](https://goatconf.com/) in Tuzla, 3 to 5 June 2027, planned [in the open](https://github.com/misabegovic/goatconf). Come say hi!
+I love bringing people together. I organised [EuRuKo 2024](https://2024.euruko.org/) in Sarajevo and [RubyConf Austria](https://rubyconf.at/) in Vienna. Next up is [GoatConf 2027](https://goatconf.com/) in Tuzla, 3 to 5 June 2027: a conference for people who build and sell software, in any language and on any stack. It's inspired by FOSS and [built around its values](https://goatconf.com/charter.html): free to attend ([registration](https://goatconf.com/register.html) required), open to anyone who wants to add to it, and planned [in the open](https://github.com/misabegovic/goatconf). Come say hi!
 
 #### Elsewhere
 
